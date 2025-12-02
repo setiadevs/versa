@@ -2,6 +2,7 @@
   "name": "versatile'25",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://setiadevs.github.io/versa/", 
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -17,6 +18,7 @@
     "@types/node": "^22.14.0",
     "@vitejs/plugin-react": "^5.0.0",
     "typescript": "~5.8.2",
-    "vite": "^6.2.0"
+    "vite": "^6.2.0",
+    "gh-pages": "^6.1.1" 
   }
 }
